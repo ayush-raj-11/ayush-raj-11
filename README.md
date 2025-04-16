@@ -32,24 +32,3 @@
 
 ---
 
-### 📈 Currently Working On
-
-- 🔬 Building regression models for fire weather prediction  
-- 🛠 Creating an EV Rental Admin Panel (React + Firebase + Vite)  
-- ✍️ Writing clean and scalable backend logic using Flask
-
----
-
-### ✨ Fun Fact
-
-I debug more than I sleep 😴  
-(But nothing beats the thrill of solving a tough bug at 2 AM 💡)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushraj1104&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushraj1104&theme=radical" width="400"/>
-</p>
