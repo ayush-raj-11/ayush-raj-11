@@ -6,17 +6,17 @@
 
 ---
 
-### 🧠 Who Am I?
+### 🧠 About Me
 
-- 🤖 Machine Learning enthusiast turning ideas into intelligent systems  
-- 🔭 Currently learning and building practical ML models  
-- 🌱 Always leveling up my skills through hands-on projects  
-- 💬 Love to connect with like-minded folks and exchange ideas  
-- 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/ayushraj1104)  
+- 🤖 Passionate about transforming ideas into intelligent ML solutions  
+- 📚 Currently sharpening my skills in ML, Python, and Data Engineering  
+- 🛠️ Building hands-on projects to bridge the gap between theory and practice  
+- 💬 Always up for tech talks, collaboration, and problem-solving  
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayushraj1104)  
 
 ---
 
-### 🚀 Tech Stack & Tools
+### ⚙️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
@@ -32,4 +32,20 @@
 
 ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushraj1104&show_icons=true&theme=radical" alt="Ayush's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushraj1104&theme=radical" alt="Ayush's GitHub streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraj1104&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+</p>
+
+---
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushraj1104&color=brightgreen" alt="Profile views" />
+</div>
