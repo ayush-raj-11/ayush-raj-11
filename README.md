@@ -17,23 +17,25 @@
 
 ---
 
-<p>
+### 🚀 Tech Stack & Tools
+
+<p align="center">
 
 <!-- Core Programming + Backend -->
 <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,flask,linux,git,github,vscode" />
 
 </p>
 
-<p>
+<p align="center">
 
 <!-- Data + AI + Notebook -->
 <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch,anaconda,jupyter" />
 
 </p>
 
-<p>
+<p align="center">
 
-<!-- Database + Query -->
+<!-- Database -->
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 </p>
@@ -65,12 +67,3 @@
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
 
 </p>
-
-
-<h1 align="center">👋 Hey there, I’m <span style="color:#00b894">Ayush Raj</span></h1>
-
-<p align="center">
-  🚀 AI/ML Engineer in Progress • 🔐 Cyber Security Enthusiast • 💻 Systems & Backend Builder
-</p>
-
----
