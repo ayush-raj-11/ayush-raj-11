@@ -1,33 +1,63 @@
 <h1 align="center">👋 Hey there, I’m <span style="color:#00b894">Ayush Raj</span></h1>
 
 <p align="center">
-  🚀 Aspiring <strong>AI/ML Engineer</strong> • 💻 Tech Explorer • 🔍 Curious Mind
+  🚀 AI/ML Engineer in Progress • 🔐 Cyber Security Enthusiast 
 </p>
 
 ---
 
 ### 🧠 Who Am I?
 
-- 🤖 Machine Learning enthusiast turning ideas into intelligent systems  
-- 🔭 Currently learning and building practical ML models  
-- 🌱 Always leveling up my skills through hands-on projects  
-- 💬 Love to connect with like-minded folks and exchange ideas  
-- 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/ayushraj1104)  
+- 🤖 AI & Machine Learning enthusiast building real-world intelligent systems  
+- 🔐 Interested in secure and reliable AI-driven applications  
+- 🔭 Currently working on practical ML models and backend-based AI systems  
+- 🌱 Continuously improving through hands-on projects and real datasets  
+- 💬 Always open to tech discussions, collaboration and innovation  
+- 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/ayushraj1104)
+
+---
+
+### ⚡ Engineering Mindset
+
+- 🧩 Solve real-world problems using data and intelligence  
+- 🏗️ Focus on building scalable and production-ready solutions  
+- 🔐 Think security-first while designing systems  
+- 📊 Believe in data-driven decision making  
 
 ---
 
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" width="40" height="40"/>
+
+<!-- Main Tech Icons (Modern Style) -->
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,flask,linux,git,github,vscode" />
+
+</p>
+
+<p align="center">
+
+<!-- AI / Data Stack -->
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch" />
+
 </p>
 
 ---
+
+### 🧩 Additional Tech & Concepts
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-00B894?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cyber%20Security-111111?style=for-the-badge&logo=kalilinux"/>
+<img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=jupyter"/>
+<img src="https://img.shields.io/badge/Backend%20Engineering-00599C?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 📈 Growth Path
+
