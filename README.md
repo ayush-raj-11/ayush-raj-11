@@ -17,21 +17,21 @@
 
 ---
 
-<p align="center">
+<p>
 
 <!-- Core Programming + Backend -->
 <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,flask,linux,git,github,vscode" />
 
 </p>
 
-<p align="center">
+<p>
 
 <!-- Data + AI + Notebook -->
 <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch,anaconda,jupyter" />
 
 </p>
 
-<p align="center">
+<p>
 
 <!-- Database + Query -->
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
@@ -66,9 +66,6 @@
 
 </p>
 
----
-
-### 📈 Growth Path
 
 <h1 align="center">👋 Hey there, I’m <span style="color:#00b894">Ayush Raj</span></h1>
 
