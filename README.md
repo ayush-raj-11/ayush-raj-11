@@ -14,6 +14,7 @@
 - 🌱 Continuously improving through hands-on projects and real datasets  
 - 💬 Always open to tech discussions, collaboration and innovation  
 - 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/ayushraj1104)
+- 🧑‍💻 Portfolio  https://ayush-raj-11.github.io/portfolio/
 
 ---
 
